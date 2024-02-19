@@ -2,7 +2,7 @@
 
 ### [Project Description](doc/project2_desc.md)
 
-Term: Fall 2023
+Term: Spring 2024
 
 ![screenshot](doc/figs/map.jpg)
 
@@ -13,23 +13,25 @@ The **learning goals** for this project is:
 - business intelligence for data science
 - data cleaning
 - data visualization
-- systems development/design life cycle
+- systems development
 - shiny app/shiny server
 
 *The above general statement about project 2 can be removed once you are finished with your project. It is optional.
 
-## Project Title Lorem ipsum dolor sit amet
+## Project Title：Public Assistance Data
 Term: Spring 2024
 
-+ Team #
++ Team 2
 + **Projec title**: + Team members
 	+ Yicheng Guo
 	+ Hongxu Lin
 	
 
-+ **Project summary**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ **Project summary**:This Shiny application aims to explore datasets related to public aid. Users can visualize data by selecting different variables and chart types.
 
-+ **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
++ **Contribution statement**: ([default](doc/a_note_on_contributions.md))
+  + Yicheng Guo is responsbile for finding the dataset and preparing the presentation
+  + Hongxu Lin is responsible for shiny app. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
