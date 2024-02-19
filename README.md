@@ -31,7 +31,7 @@ Term: Spring 2024
 
 + **Contribution statement**: ([default](doc/a_note_on_contributions.md))
   + Yicheng Guo is responsbile for finding the dataset and preparing the presentation
-  + Hongxu Lin is responsible for shiny app. 
+  + Hongxu Lin is responsible for coding and developing shiny app. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
